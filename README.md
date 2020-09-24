@@ -1,4 +1,10 @@
-# Adonis API application
+# Adonis NextJS Events Application
+
+NodeJS API built with AdonisJS
+React front end using NextJS 
+Ant Design UI Library
+MySQL DB
+
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
 
