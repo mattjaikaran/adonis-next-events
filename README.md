@@ -1,12 +1,12 @@
 # Adonis NextJS Events Application
 
-NodeJS API built with AdonisJS
-React front end using NextJS 
-Ant Design UI Library
+NodeJS API built with AdonisJS <br>
+React front end using NextJS  <br>
+Ant Design UI Library <br>
 MySQL DB
 
 
-This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
+#### This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
 
 1. Bodyparser
 2. Authentication
@@ -19,10 +19,17 @@ This is the boilerplate for creating an API server in AdonisJs, it comes pre-con
 Use the adonis command to install the blueprint
 
 ```bash
-adonis new yardstick --api-only
+adonis new events-api --api-only
 ```
 
 or manually clone the repo and then run `npm install`.
+
+Run the NextJS client in a new terminal window
+```bash
+cd client
+npm install
+npm run dev
+```
 
 
 ### Migrations
